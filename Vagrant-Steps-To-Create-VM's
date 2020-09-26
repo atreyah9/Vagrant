@@ -1,0 +1,7 @@
+Touch Vagrantfile
+chmod 777 Vagrantfile
+vi Vagrantfile
+copy and paste the content
+vagrant start
+vagrant status
+vagrant ssh machinename
